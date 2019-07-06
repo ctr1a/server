@@ -1,2 +1,3 @@
 "ug create" 
 "123456" 
+centos add
