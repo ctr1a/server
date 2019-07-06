@@ -1,4 +1,10 @@
 "ababab.txt" 
+<<<<<<< HEAD
 "12345"
 
 "8888" 
+=======
+"AD AD"
+a big branch
+"12345" 
+>>>>>>> ff64da61bd70db6133e7e98f0290585f41765f07
