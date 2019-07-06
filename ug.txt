@@ -4,3 +4,4 @@ centos add
 "eating" 
 abc
 ssh pub key out
+什么情况？？？
